@@ -5,5 +5,5 @@
   };
 
   var showAlert = function(){
-    alert( "onclick event completed" )
+    alert( "onload event" )
   };
